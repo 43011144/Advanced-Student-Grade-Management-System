@@ -176,7 +176,7 @@ Display all saved student records and remove records when required.
 
 Search for an existing student and update assessment marks.
 
-*(Insert screenshot here)*
+
 
 ### Unit Testing
 
@@ -184,7 +184,7 @@ The application includes automated unit tests to verify functionality.
 
 **Result:** 37/37 tests passed successfully.
 
-*(Insert screenshot here)*
+
 
 ---
 
