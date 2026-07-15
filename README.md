@@ -140,7 +140,7 @@ cd advanced-student-grade-management-system
 ### Run the application
 
 ```bash
-python Question1.py
+student_grade_calculator_single.py
 ```
 
 No external libraries are required. The application uses only Python's built-in modules.
